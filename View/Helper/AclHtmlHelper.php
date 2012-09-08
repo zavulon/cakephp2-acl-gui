@@ -1,5 +1,5 @@
 <?php
-App::uses('AppHelper', 'View/Helper', 'View/HtmlHelper');
+App::uses('View/Helper', 'View/HtmlHelper');
 
 class AclHtmlHelper extends HtmlHelper
 {
